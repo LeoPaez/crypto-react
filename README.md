@@ -1,3 +1,5 @@
+Buscador de Cryptos hecho con React usando componentes funcionales, hooks y axios.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
